@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shaoxue-pe-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/shaoxue-pe-app/static/js/main.68ea0a9a.chunk.js",
+    "main.js.map": "/shaoxue-pe-app/static/js/main.68ea0a9a.chunk.js.map",
+    "runtime-main.js": "/shaoxue-pe-app/static/js/runtime-main.2dfbec5a.js",
+    "runtime-main.js.map": "/shaoxue-pe-app/static/js/runtime-main.2dfbec5a.js.map",
+    "static/js/2.6df59cfb.chunk.js": "/shaoxue-pe-app/static/js/2.6df59cfb.chunk.js",
+    "static/js/2.6df59cfb.chunk.js.map": "/shaoxue-pe-app/static/js/2.6df59cfb.chunk.js.map",
+    "index.html": "/shaoxue-pe-app/index.html",
+    "precache-manifest.438712be04956661dde6ed4cb268fb6b.js": "/shaoxue-pe-app/precache-manifest.438712be04956661dde6ed4cb268fb6b.js",
+    "service-worker.js": "/shaoxue-pe-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/shaoxue-pe-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6df59cfb.chunk.js.LICENSE.txt": "/shaoxue-pe-app/static/js/2.6df59cfb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/shaoxue-pe-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dfbec5a.js",
+    "static/js/2.6df59cfb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.68ea0a9a.chunk.js"
+  ]
+}
